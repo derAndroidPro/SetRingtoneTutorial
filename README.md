@@ -1,5 +1,5 @@
 # Set Ringtone Tutorial
-App-Projek für Android Studio.
+App-Projekt für Android Studio.
 Hier das Video anschauen: https://youtu.be/ZsCViVaa72g
 
 <b>Screenshot:</b>
